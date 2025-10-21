@@ -14,8 +14,6 @@ Habit Price Calculator
 
 Python 3.8+
 
-Kivy (UI)
-
 SQLite (база данных)
 
 Matplotlib (графики)
